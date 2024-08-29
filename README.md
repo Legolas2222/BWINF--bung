@@ -1,2 +1,2 @@
-# BWINF--bung
-Übunsaufgaben für den Bundeswettbewerb Informatik
+# BWINF-Übung
+Implementation von Übungsaufgaben als Vorbereitung für den Bundeswettbewerb Informatik 2024.
